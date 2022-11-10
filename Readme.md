@@ -2,7 +2,7 @@
 
 <p>This repository includes the solution of HackerRank SQL problems in MySQL</p>
 
-##Link to Problems
+## Link to Problems
 
 | Problems                    | Link                                                                                               |
 | --------------------------- | -------------------------------------------------------------------------------------------------- |
